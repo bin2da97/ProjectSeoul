@@ -9,7 +9,6 @@
 - Java, Spring, Mysql
 - Javascript , JQuery
 
-
 ### 주요역할 및 담당: 
 - Open Api 데이터 통신(서울문화행사정보 API, 날씨 초단기 예보API)
 - 지도, 달력 구현(클릭시 해당 지역구, 날짜를 포함하는 행사정보 표시)
